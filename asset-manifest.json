@@ -1,0 +1,13 @@
+{
+  "main.css": "/deploy-github/static/css/main.1ca8c793.chunk.css",
+  "main.js": "/deploy-github/static/js/main.8a13dce4.chunk.js",
+  "main.js.map": "/deploy-github/static/js/main.8a13dce4.chunk.js.map",
+  "static/js/1.5ee9e425.chunk.js": "/deploy-github/static/js/1.5ee9e425.chunk.js",
+  "static/js/1.5ee9e425.chunk.js.map": "/deploy-github/static/js/1.5ee9e425.chunk.js.map",
+  "runtime~main.js": "/deploy-github/static/js/runtime~main.745fb3fa.js",
+  "runtime~main.js.map": "/deploy-github/static/js/runtime~main.745fb3fa.js.map",
+  "static/css/main.1ca8c793.chunk.css.map": "/deploy-github/static/css/main.1ca8c793.chunk.css.map",
+  "index.html": "/deploy-github/index.html",
+  "precache-manifest.5064edbc967b54ac39f70a2db2eb0fbb.js": "/deploy-github/precache-manifest.5064edbc967b54ac39f70a2db2eb0fbb.js",
+  "service-worker.js": "/deploy-github/service-worker.js"
+}
